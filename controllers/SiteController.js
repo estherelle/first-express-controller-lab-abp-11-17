@@ -1,4 +1,4 @@
-var SiteController = require('./SiteController')
+// var SiteController = require('./SiteController')
 
 module.exports = {
   Index : function(req, res) {
