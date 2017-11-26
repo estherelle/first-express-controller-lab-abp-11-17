@@ -4,5 +4,3 @@ var SiteController = require('./controllers/SiteController.js')
 // Require controller modules
 
 app.get('/', SiteController.Index())
-
-module.exports = app
