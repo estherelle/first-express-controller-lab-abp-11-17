@@ -1,6 +1,6 @@
 app = require('../app')
 
-module.exports.controller = function(app) {
+module.exports.SiteController = function(app) {
 
 /**
  * a home page route
@@ -24,4 +24,4 @@ module.exports.controller = function(app) {
   });
 
 }
-module.exports()
+
