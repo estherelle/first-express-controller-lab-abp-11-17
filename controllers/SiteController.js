@@ -1,3 +1,5 @@
+app = require('../app')
+
 module.exports.controller = function(app) {
 
 /**
@@ -22,3 +24,4 @@ module.exports.controller = function(app) {
   });
 
 }
+module.exports()
