@@ -24,4 +24,3 @@ module.exports.SiteController = function(app) {
   });
 
 }
-
